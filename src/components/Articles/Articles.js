@@ -1,8 +1,8 @@
 import { useContext } from 'react';
 import { FaBookmark, FaRegBookmark } from 'react-icons/fa';
 
-import dummyArticles from '../../data/dummy-articles';
-import BookmarkContext from '../../store/bookmark-context';
+import dummyArticles from '../data/dummy-articles';
+import BookmarkContext from '../store/bookmark-context';
 import classes from './Articles.module.css';
 
 function Articles() {

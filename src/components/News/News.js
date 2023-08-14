@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 import Articles from '../Articles/Articles';
 import InfoSidebar from '../InfoSidebar/InfoSidebar';
-import BookmarkContext from '../../store/bookmark-context';
+import BookmarkContext from '../store/bookmark-context';
 
 function News() {
   const [savedArticles, setSavedArticles] = useState([]);
