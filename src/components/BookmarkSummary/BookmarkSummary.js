@@ -1,7 +1,7 @@
-import { useContext } from 'react';
+import { useContext } from "react";
 
-import BookmarkContext from '../store/bookmark-context';
-// import classes from './BookmarkSummary.module.css';
+import BookmarkContext from "../store/bookmark-context";
+import classes from "./BookmarkSummary.module.css";
 
 function BookmarkSummary() {
   const bookmarkCtx = useContext(BookmarkContext);
