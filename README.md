@@ -1,3 +1,5 @@
 # react-playground
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-rxlsd5)
+[Edit on Codesandbox ⚡️](https://codesandbox.io/p/github/kcLin2708/react-playground/React-useContext?file=/src/App.jst)
+
+[Code Source from the book React Key Concepts by Maximilian Schwarzmueller](https://github.com/mschwarzmueller/book-react-key-concepts)
